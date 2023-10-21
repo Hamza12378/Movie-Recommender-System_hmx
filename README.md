@@ -30,11 +30,8 @@ This note provides clear instructions to users on how to generate the .pkl files
 
 
 
-
-
-<img width="684" alt="Screenshot 2023-07-18 122427" src="https://github.com/Hamza12378/Movie-Recommender-System_hmx/assets/111439617/35b32b83-7845-45ea-a5d0-e89d2182586d">
-<img width="684" alt="Screenshot 2023-07-18 122500" src="https://github.com/Hamza12378/Movie-Recommender-System_hmx/assets/111439617/0fe4f866-6261-48a5-a2a5-40cce14cee31">
-
+<img width="512" alt="Screenshot 2023-07-18 122500" src="https://github.com/Hamza12378/Movie-Recommender-System_hmx/assets/111439617/26d21348-424e-43cf-9b8e-cb6a9b51220a">
+<img width="533" alt="Screenshot 2023-07-18 122427" src="https://github.com/Hamza12378/Movie-Recommender-System_hmx/assets/111439617/496d0b19-0a1b-4f4e-894a-d13acbaf8ad1">
 
 ### Technologies Used
 **Web Technologies**
