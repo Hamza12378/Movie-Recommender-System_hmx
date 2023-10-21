@@ -21,7 +21,7 @@ This note provides clear instructions to users on how to generate the .pkl files
 
 `import pickle
 pickle.dump(new,open('movie_list.pkl','wb'))
-pickle.dump(similarity,open('similarity.pkl','wb'))                                                     
+pickle.dump(similarity,open('similarity.pkl','wb'))
 pickle.dump(new.to_dict(),open('moviedict.pkl','wb'))`
 
 
