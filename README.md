@@ -16,10 +16,16 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 5. Once you have generated the .pkl files, you can use them with the Streamlit app to enjoy personalized movie recommendations.
 
 This note provides clear instructions to users on how to generate the .pkl files when they run the Jupyter source file. It ensures that users have the necessary data files for the Movie Recommender System.
+
+
+
 `import pickle
 pickle.dump(new,open('movie_list.pkl','wb'))
 pickle.dump(similarity,open('similarity.pkl','wb'))
 pickle.dump(new.to_dict(),open('moviedict.pkl','wb'))`
+
+
+
 
 
 <img width="684" alt="Screenshot 2023-07-18 122427" src="https://github.com/Hamza12378/Movie-Recommender-System_hmx/assets/111439617/35b32b83-7845-45ea-a5d0-e89d2182586d">
