@@ -16,6 +16,7 @@ The project includes a Jupyter Notebook source file, which you can run to genera
 4. At the end of the notebook, you will find commands that create the necessary .pkl files.
 5. Once you have generated the .pkl files, you can use them with the Streamlit app to enjoy personalized movie recommendations.
 
+
 This note provides clear instructions to users on how to generate the .pkl files when they run the Jupyter source file. It ensures that users have the necessary data files for the Movie Recommender System.
 
 # Code for pkl file:
