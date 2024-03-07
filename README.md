@@ -9,7 +9,6 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 # Note: 
 The project includes a Jupyter Notebook source file, which you can run to generate the required .pkl files. These files are not included in the repository due to their size, but you can easily create them by following these steps:
-
 1. Clone or download the repository to your local machine.
 2. Open the Jupyter Notebook source file (e.g., "Movie_Recommender_System.ipynb").
 3. Execute the notebook by running it cell by cell.
