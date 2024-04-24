@@ -6,7 +6,7 @@ An updated version of this application can be found at: https://github.com/Hamza
 Content-Based Recommender System recommends movies similar to the movie the user likes and analyses the sentiments on the reviews given by the user for that movie.
   
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API, I did web scraping to get the reviews given by the user in the IMDB site using beautifulsoup4 and performed sentiment analysis on those reviews.
- 
+  
 # Note:  
 The project includes a Jupyter Notebook source file, which you can run to generate the required .pkl files. These files are not included in the repository due to their size, but you can easily create them by following these steps:
 1. Clone or download the repository to your local machine.
