@@ -1,6 +1,6 @@
 # Movie_Recommender_System_hmx
 Python Framework Frontend API
- 
+  
 An updated version of this application can be found at: https://github.com/Hamza12378/Movie-Recommender-System_hmx
     
 Content-Based Recommender System recommends movies similar to the movie the user likes and analyses the sentiments on the reviews given by the user for that movie.
