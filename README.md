@@ -26,7 +26,7 @@ This note provides clear instructions to users on how to generate the .pkl files
 
 `pickle.dump(similarity,open('similarity.pkl','wb'))`
 
-`pickle.dump(new.to_dict(),open('moviedict.pkl','wb'))`
+`pickle.dump(new.to_dict(),open('moviedict.pkl','wb'))` 
 
 # Screenshots:
 
